@@ -1,2 +1,2 @@
 # gridcraft-releases
-Mak Grid — downloads (installers only)
+My Sheets — downloads (installers only)
